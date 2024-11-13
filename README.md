@@ -19,4 +19,4 @@ The code includes:
 5. Model Evaluation Metrics: Comparison of models based on accuracy, precision, recall, and F1-score.
 
 ## Dataset:
-https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/code
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data
